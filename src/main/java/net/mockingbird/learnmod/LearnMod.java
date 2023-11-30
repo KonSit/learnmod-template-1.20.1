@@ -2,6 +2,7 @@ package net.mockingbird.learnmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.mockingbird.learnmod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +12,6 @@ public class LearnMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
 	}
 }
