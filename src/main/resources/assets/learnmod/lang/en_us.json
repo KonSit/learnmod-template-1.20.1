@@ -1,3 +1,6 @@
 {
-  "item.learnmod.uranium-238": "Uranium-238"
+  "item.learnmod.uranium-238": "Uranium-238",
+  "item.learnmod.uranium-235": "Uranium-235",
+
+  "itemgroup.nuclear-power": "Nuclear Power"
 }
