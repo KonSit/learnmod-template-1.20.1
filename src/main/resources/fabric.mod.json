@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "MIT",
+	"license": "ASL",
 	"icon": "assets/learnmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
