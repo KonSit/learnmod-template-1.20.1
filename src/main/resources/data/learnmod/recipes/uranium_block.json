@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "learnmod:uranium_238"
+    },
+    "X": {
+      "item": "learnmod:uranium_235"
+    }
+  },
+  "result": {
+    "item": "learnmod:uranium_block"
+  }
+}

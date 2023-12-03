@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "learnmod:uranium_block"
+    }
+  ],
+  "result": {
+    "item": "learnmod:uranium_238",
+    "count": 8
+  }
+}

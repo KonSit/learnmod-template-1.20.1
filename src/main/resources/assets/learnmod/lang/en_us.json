@@ -1,6 +1,12 @@
 {
-  "item.learnmod.uranium-238": "Uranium-238",
-  "item.learnmod.uranium-235": "Uranium-235",
+  "item.learnmod.uranium_238": "Uranium-238",
+  "item.learnmod.uranium_235": "Uranium-235",
+  "item.learnmod.raw_uranium": "Raw Uranium",
+  "item.learnmod.od_scanner": "OD Scanner",
 
-  "itemgroup.nuclear-power": "Nuclear Power"
+  "block.learnmod.uranium_ore": "Uranium Ore",
+  "block.learnmod.uranium_block": "Uranium Block",
+
+
+  "itemgroup.nuclear_power": "Nuclear Power"
 }

@@ -2,6 +2,7 @@ package net.mockingbird.learnmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.mockingbird.learnmod.block.ModBlock;
 import net.mockingbird.learnmod.item.ModItemGroups;
 import net.mockingbird.learnmod.item.ModItems;
 import org.slf4j.Logger;
@@ -15,5 +16,6 @@ public class LearnMod implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModItemGroups.registerItemGroups();
+		ModBlock.registerModBlock();
 	}
 }
